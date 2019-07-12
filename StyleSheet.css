@@ -1,43 +1,47 @@
+html
+{
+   font-family:Arial;
+}
 i
    {
    color:teal; 
    font-size:14px;
-   font-family:Calibri;
+   font-family:Arial;
     }
    h1
    {
    color:teal; 
    font-size:24px;
-   font-family:Calibri;
+   font-family:Arial;
    }
    h2
    {
    color:teal; 
    font-size:20px;
-   font-family:Calibri;
+   font-family:Arial;
    }
    h3
    {
    color:teal; 
    font-size:16px;
-   font-family:Calibri;
+   font-family:Arial;
    }
    b
    {
    color:teal; 
    font-size:14px;
-   font-family:Calibri;
+   font-family:Arial;
    }
   p
    {
    color:teal; 
    font-size:14px;
-   font-family:Calibri;
+   font-family:Arial;
    }
   a
 {
    color:aqua;
    text-decoration: none; 
    background-color: none;
-   font-family:Calibri;
+   font-family:Arial;
 }
