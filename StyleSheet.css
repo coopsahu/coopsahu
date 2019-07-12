@@ -37,7 +37,6 @@ i
    color:teal; 
    font-size:14px;
    font-family:Arial;
-   width:900px;
    padding:5px; 
    }
   a
@@ -46,10 +45,6 @@ i
    text-decoration: none; 
    background-color: none;
    font-family:Arial;
-}
-.center-justified {
-  text-align: justify;
-  margin: 0 auto;
-  width: 30em;
+     text-align: justify;
   text-justify: inter-word;
 }
