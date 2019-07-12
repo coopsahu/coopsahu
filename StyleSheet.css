@@ -38,6 +38,8 @@ i
    font-size:14px;
    font-family:Arial;
    padding:5px; 
+   text-align: justify;
+  text-justify: inter-word;
    }
   a
 {
@@ -45,6 +47,4 @@ i
    text-decoration: none; 
    background-color: none;
    font-family:Arial;
-     text-align: justify;
-  text-justify: inter-word;
 }
