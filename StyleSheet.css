@@ -51,3 +51,8 @@ i
    background-color: none;
    font-family:Arial;
 }
+.center-justified {
+  text-align: justify;
+  margin: 0 auto;
+  width: 30em;
+}
