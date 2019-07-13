@@ -26,7 +26,7 @@ Precio: **U$S10**
 
 Le damos soluciones a una situación o problema que encontremos en su cultivo o jardín y ofrecemos alternativas, información y un mejor enfoque.
 
-Precio: **U$S10**
+Precio: **U$S8**
 
 ---
 [Volver](/)
