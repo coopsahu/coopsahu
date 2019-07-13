@@ -1,6 +1,4 @@
-# CoopSAHU
-
-## Sobre Nosotros
+# Sobre Nosotros
 
 Somos una cooperativa de estudiantes de técnica agropecuaria y agroalimentaria. Somos del barrio porteño de Agronomía. 
 Nos interesa el desarrollo correcto de la agricultura en todas sus facetas. Creemos que no es solo posible sino que necesario la existencia de huertas en la ciudad, por causas ecológicas y económicas pero tambien por la belleza que otorgan huecos verdes a una casa, un edificio, un negocio, una empresa o un barrio. 
