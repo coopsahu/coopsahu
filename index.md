@@ -7,6 +7,6 @@
 * [Aranceles](/aranceles.md)
 * [Información relevante](/info.md)
 
-![Logo](/logo.jpg)
+![](/logo.jpg)
 ---
 (C) Copyright 2003-2020. Todos los derechos reservados.
