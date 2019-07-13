@@ -10,11 +10,12 @@
 
 Apta departamento. Para terraza/balcón/ventana donde dé el sol durante mínimo 6 horas al día.
 
-Precio: ~U$S50~ **U$S39.99**
+Precio: ~~U$S50~~ **U$S39.99**
 
 #### Adicionales
 
 Instalación y armado de la minihuerta
+
 Extra: **U$S9.99**
 
 ### Asesoramiento
