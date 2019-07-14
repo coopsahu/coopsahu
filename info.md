@@ -20,7 +20,3 @@
 
 *Fuente: INTA*
 
----
-[Volver](/)
-
-(C) Copyright 2003-2020. Todos los derechos reservados.
