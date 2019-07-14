@@ -9,7 +9,3 @@ Estamos decididos a revertir esta situación. Tenemos mucha experiencia práctic
 
 Para consultar dudas sobre nuestros servicios, requerir informacion, hacer una consulta para asesoramiento on-line o solicitar nuestros servicios se nos debe contactar a nuestra casilla de correo electrónico ivan@fedorus.com . Actualmente trabajamos con Castellano y con Ingles. 
 
----
-[Volver](https://coopsahu.github.io)  
-
-(C) Copyright 2003-2020. Todos los derechos reservados.
