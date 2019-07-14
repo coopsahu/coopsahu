@@ -31,3 +31,9 @@ Tel: +54 011 3150-3084
 * Experiencia en procesamiento y agregado de valor a alimentos procedentes de la producción agrícola.
 
 * Experiencia en elaboración y venta de alimentos de repostería y panadería.
+
+---
+
+[Descargar CV en PDF](/resources/cvivanfedorusoriginal.pdf)
+
+[Download English-version CV as PDF](/resources/cvivanfedorusenglish.pdf)
