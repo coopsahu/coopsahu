@@ -7,8 +7,4 @@ Nosotros pensamos en nuestros clientes y ofrecemos informacion y soluciones pers
 
 Visite [aranceles](/aranceles) para ver nuestras comisiones.
 
----
 
-[Volver](/)
-
-(C) Copyright 2003-2020. Todos los derechos reservados.
