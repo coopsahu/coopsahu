@@ -15,6 +15,7 @@
 | Rabanito              | Otoño/Primavera    | 50 días                     |
 | Remolacha             | Verano             | 120 días                    |
 | Repollito de bruselas | Verano             | 100 días                    |
+| Rúcula                | Verano             | 45 días                     |
 | Zanahoria             | Verano             | 100 días                    |
 
 *Fuente: INTA*
