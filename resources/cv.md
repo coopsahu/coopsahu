@@ -18,7 +18,7 @@
 
 * **Portugués**: Profesional.
 
-* **Noruego**: Profesional
+* **Noruego**: Profesional.
 
 * **Francés**: Básico.
 
