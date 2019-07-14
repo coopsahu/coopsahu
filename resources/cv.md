@@ -4,6 +4,8 @@
 
 Tel: +54 011 3150-3084
 
+Dirección de e-mail: [ivan@fedorus.com](/resources/cv#)
+
 ## Educación:
 
 * Estudiante de instituto en educación media técnica. 
