@@ -33,7 +33,4 @@ Precio: **U$S8**
 
 ###### * Los precios están expresados en dólares americanos. Se puede cancelar en pesos argentinos a tipo de cambio minorista.
 
----
-[Volver](/)
 
-(C) Copyright 2003-2020. Todos los derechos reservados.
