@@ -2,11 +2,13 @@
 
 ### *Agronomía*, Buenos Aires, Argentina
 
+Tel: +54 011 3150-3084
+
 ## Educación:
 
 * Estudiante de instituto en educación media técnica. 
 
-* Títulos en progreso de **ténico en producción agropecuaria y agroalimentaria**.
+* Títulos en progreso de **técnico en producción agropecuaria y agroalimentaria**.
 
 * *Aspirante a Biólogo Molecular y Etólogo en la UiO.*
 
